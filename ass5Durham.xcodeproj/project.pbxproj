@@ -15,6 +15,7 @@
 		F5494DEB1DD679280080DB5B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F5494DE91DD679280080DB5B /* LaunchScreen.storyboard */; };
 		F5494DF61DD679280080DB5B /* ass5DurhamTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5494DF51DD679280080DB5B /* ass5DurhamTests.swift */; };
 		F5494E011DD679280080DB5B /* ass5DurhamUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5494E001DD679280080DB5B /* ass5DurhamUITests.swift */; };
+		F5494E0F1DD68A170080DB5B /* instructorhelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = F5494E0E1DD68A170080DB5B /* instructorhelper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F5494DFC1DD679280080DB5B /* ass5DurhamUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ass5DurhamUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5494E001DD679280080DB5B /* ass5DurhamUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ass5DurhamUITests.swift; sourceTree = "<group>"; };
 		F5494E021DD679280080DB5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F5494E0E1DD68A170080DB5B /* instructorhelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = instructorhelper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				F5494DE91DD679280080DB5B /* LaunchScreen.storyboard */,
 				F5494DEC1DD679280080DB5B /* Info.plist */,
 				F5494DE41DD679280080DB5B /* ass5Durham.xcdatamodeld */,
+				F5494E0E1DD68A170080DB5B /* instructorhelper.swift */,
 			);
 			path = ass5Durham;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 			files = (
 				F5494DE01DD679280080DB5B /* ViewController.swift in Sources */,
 				F5494DDE1DD679280080DB5B /* AppDelegate.swift in Sources */,
+				F5494E0F1DD68A170080DB5B /* instructorhelper.swift in Sources */,
 				F5494DE61DD679280080DB5B /* ass5Durham.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
